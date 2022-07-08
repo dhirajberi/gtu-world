@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /search
+Disallow: /static
+Disallow: /admin
+Allow: /
+
+Sitemap: https://gtuworld.com/sitemap.xml
